@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa",
+        "precio": 80,
+        "categoria": "Comida",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/hamburguesa.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Pizza",
+        "precio": 120,
+        "categoria": "Comida",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/pizza.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Hot Dog",
+        "precio": 50,
+        "categoria": "Comida",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/hot_dog.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Tacos",
+        "precio": 70,
+        "categoria": "Comida",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/tacos.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Sandwich",
+        "precio": 55,
+        "categoria": "Comida",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/sandwich.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Papas",
+        "precio": 40,
+        "categoria": "Entrada",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/papas.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Ensalada",
+        "precio": 60,
+        "categoria": "Entrada",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/ensalada.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Helado",
+        "precio": 35,
+        "categoria": "Postre",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/helado.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Pepsi",
+        "precio": 25,
+        "categoria": "Bebida",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/pepsi.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Caf\u00e9",
+        "precio": 30,
+        "categoria": "Bebida",
+        "imagen": "C:/Users/Equipo 1/Desktop/Proyecto_Interfaz_Facial/Restaurante Miguel A/resources/cafe.png"
+    }
+]
